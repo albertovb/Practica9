@@ -1,0 +1,15 @@
+.titulo1{
+    text-align: center;
+}
+.subtitulo{
+    text-align: center;
+}
+span.titulos{
+    color:rgb(133, 39, 23);
+}
+span.texto{
+    color:rgb(184, 32, 12);
+}
+table, th, td {
+    border: 1px solid black;
+}
